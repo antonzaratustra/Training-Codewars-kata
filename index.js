@@ -7,7 +7,7 @@ function generateIntegers (n) {
   return resultArray
 }
 
-//console.log(generateIntegers(5))
+console.log(generateIntegers(5))
 
 
 
